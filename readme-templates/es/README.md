@@ -2,7 +2,7 @@
 
 El objetivo de la primera sección del proyecto es hacer una introducción y descripción del proyecto. Buscamos darle al lector una breve idea que contextualice el proyecto.
 
-Adicionalmente puedes adicionar un link al proyecto funcional [davidcasr] (http://davidcasr.co/)
+Adicionalmente puedes adicionar un link al proyecto funcional http://davidcasr.co/
 
 ## Instalación 
 
